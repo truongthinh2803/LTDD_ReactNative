@@ -16,8 +16,8 @@ const PersonalInfoScreen = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Họ và tên: Phạm Ngọc Đăng Khoa</Text>
-      <Text style={styles.text}>Mã số sinh viên: 21110214</Text>
+      <Text style={styles.text}>Họ và tên: Nguyên Trường Thịnh</Text>
+      <Text style={styles.text}>Mã số sinh viên: 21110311</Text>
       <Text style={styles.text}>Khoa: Công Nghệ Thông Tin</Text>
     </View>
   );
